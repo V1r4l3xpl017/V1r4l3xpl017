@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100" role="img" aria-label="about.sh">
+  <defs>
+    <clipPath id="r">
+      <rect x="215.6" y="0" width="0" height="100">
+        <animate attributeName="width" values="0.0;33.6;67.2;100.8;134.4;168.0;201.6;235.2;268.8" keyTimes="0.0000;0.1111;0.2222;0.3333;0.4444;0.5556;0.6667;0.7778;0.8889" calcMode="discrete" dur="4.05s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="215.6" y="70" clip-path="url(#r)" fill="#00FF41" font-family="'Share Tech Mono','Fira Code','DejaVu Sans Mono','Courier New',monospace" font-size="56" font-weight="700" textLength="268.8" lengthAdjust="spacing">about.sh</text>
+</svg>

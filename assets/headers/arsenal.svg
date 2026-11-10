@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100" role="img" aria-label="arsenal.sh">
+  <defs>
+    <clipPath id="r">
+      <rect x="182.0" y="0" width="0" height="100">
+        <animate attributeName="width" values="0.0;33.6;67.2;100.8;134.4;168.0;201.6;235.2;268.8;302.4;336.0" keyTimes="0.0000;0.0909;0.1818;0.2727;0.3636;0.4545;0.5455;0.6364;0.7273;0.8182;0.9091" calcMode="discrete" dur="4.95s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="182.0" y="70" clip-path="url(#r)" fill="#00FF41" font-family="'Share Tech Mono','Fira Code','DejaVu Sans Mono','Courier New',monospace" font-size="56" font-weight="700" textLength="336.0" lengthAdjust="spacing">arsenal.sh</text>
+</svg>
